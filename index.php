@@ -1,6 +1,4 @@
-\\ felipe Olimpio	
-\\comite
-\\cortei caminho
+
 <?php
 
 // Versão do MySQL
