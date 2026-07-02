@@ -1,4 +1,7 @@
 
+
+
+//codigo limpo sempre
 <?php
 
 // Versão do MySQL
